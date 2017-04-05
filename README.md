@@ -1,8 +1,9 @@
 # test_dataTypes_js
 
 ## How to run
-- You should have node installed
+- You should have node and bower installed globally
 - git clone this repository
-- run bower install
+- cd into /test_dataTypes_js
+- run bower install jasmine-core
 - cd into /test
 - open index.html
